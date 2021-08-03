@@ -1,0 +1,61 @@
+.h-p10 {
+    padding: 10px;
+}
+
+.h-p20 {
+    padding: 20px;
+}
+
+.h-plr20 {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.h-plr40 {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.hb-cursor {
+    cursor: pointer;
+}
+
+.h-fl {
+    float: right;
+}
+
+.h-mb10 {
+    margin-bottom: 10px;
+}
+.h-mb15 {
+    margin-bottom: 15px;
+}
+.h-mt20 {
+    margin-top: 20px;
+}
+
+.h-mb5{
+    margin-bottom: 5px;
+    display: block;
+}
+
+.h-mr10 {
+    margin-right: 10px;
+}
+
+.h-btn {
+    width: 100px;
+    height: 40px;
+    border-radius: 4px;
+}
+
+.h-save, .h-saven:hover, .h-saven:focus {
+    background: #c57452 !important;
+    color: #fff !important;
+    border: none;
+}
+
+.h-cancel {
+    border-color: #c57452;
+    color: #c57452;
+}

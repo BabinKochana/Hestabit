@@ -1,0 +1,29 @@
+.ant-pagination {
+    background: #e6ebee;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+.ant-pagination-item {
+    background: transparent;
+    border: none;
+}
+
+.ant-pagination-item-active {
+    background: #2b50aa;
+    color: #fff;
+    border: none;
+}
+
+.ant-pagination-item-active a {
+    color: #fff;
+}
+
+.ant-pagination-prev .ant-pagination-item-link, .ant-pagination-next .ant-pagination-item-link {
+    background: transparent;
+    border: none;
+}
+
+.ant-pagination-item:focus-visible a, .ant-pagination-item:hover a {
+    color: #2b50aa;
+}

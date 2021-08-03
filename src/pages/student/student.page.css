@@ -1,0 +1,30 @@
+.hb-table .ant-table {
+    background-color: transparent;
+}
+
+.hb-table .ant-table-thead>tr>th {
+    background-color: transparent;
+    border: none;
+    text-transform: uppercase;
+    color: #57595e;
+    font-weight: 600;
+}
+
+.hb-table .ant-table-tbody>tr>td {
+    border: none;
+    padding: 20px;
+}
+
+.hb-table .ant-table-tbody>tr {
+    background: #fff;
+}
+
+.hb-table .ant-table-thead>tr>th:not(:last-child):not(.ant-table-selection-column):not(.ant-table-row-expand-icon-cell):not([colspan])::before {
+    display: none;
+}
+
+.hb-table .ant-table table {
+    border-collapse: separate;
+    border-spacing: 0 15px;
+}
+
